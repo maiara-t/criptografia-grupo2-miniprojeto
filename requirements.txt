@@ -1,0 +1,7 @@
+pycryptodome
+huffman
+PyWavelets
+pillow
+numpy
+scikit-learn
+scikit-image
